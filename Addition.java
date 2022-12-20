@@ -4,7 +4,7 @@ public class Addition {
         return a+b;
     }
     
-    public float addFloat(float a ,float b){
+    public Float addFloat(Float a ,Float b){
         return a+b;
     }
 
